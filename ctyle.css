@@ -1,0 +1,71 @@
+.buttons{
+  background-color: #367bf5;
+  display: block;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  line-height: 50px;
+  border: 3px solid #367bf5;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+
+font-size: 25px;
+  transition: 0.3s;
+}
+
+.buttons:hover{
+    background-color: #e5efff;
+    color: #7daaf8;
+    border: 3px solid #e5efff;
+}
+
+.buttons-2{
+    margin-top: 50px;
+    background-color: #ea3d2f;
+    display: block;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    line-height: 50px;
+    border: 3px solid #ea3d2f;
+   
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+.buttons-2:hover{
+    background-color: #fee4e2;
+    color: #EB483B;
+    border: 3px solid #fee4e2;
+}
+
+.buttons-3{
+    margin-top: 50px;
+    background-color: #2FA84F;
+    display: block;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    line-height: 50px;
+    border: 3px solid #2FA84F;
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+
+.buttons-3:hover{
+    background-color: #DCF7E3;
+    color: #45b162;
+    border: 3px solid #DCF7E3;
+}
